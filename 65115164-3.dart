@@ -12,3 +12,4 @@ void main() {
     }
   }
   print('The sum of all multiples of 3 and 5 below $n is: $sum');
+}
